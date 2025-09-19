@@ -27,7 +27,7 @@ Test the C Program for the desired output.
 
 ## PROGRAM:
 
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -44,7 +44,7 @@ int main() {
         wait(NULL); 
     }
 }
-
+```
 ## OUTPUT
 
 ![catfile](./image2/01-file1.png)
